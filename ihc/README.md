@@ -14,3 +14,24 @@ Solução: Adicionar uma coluna onde possa evidenciar de forma ordenada o semest
 
 No site não mostra como faz para deslogar sua conta ou uma maneira de sair com seu login.
 
+<h4>Heuristica 4: Consistência e Padrões<h4>
+  
+ Na Netflix, os usuários podem pausar, voltar ou avançar vídeos facilmente, dando-lhes controle sobre sua experiência de visualização.
+ 
+![netfliz](https://github.com/BrunoHenriique/bertoti/assets/103460912/b96369f8-e2e4-44d6-8a5f-099a945beabb)
+
+<h4>Heuristica 8: Estética e design minimalista:<h4>
+
+O site da Apple utiliza um design minimalista e limpo, focando nos produtos e nas experiências de usuário, com pouco texto e muitos espaços livres.
+
+![Apple](https://github.com/BrunoHenriique/bertoti/assets/103460912/001c0252-d0bd-477e-bffa-1f413f1709e9)
+
+
+<h4>Heuristica: 5 Prevenção de erros:<h4>
+
+Exemplo: Quando preenchemos um formulário no Google Forms, o sistema valida campos automaticamente e indica erros antes de permitir o envio, como campos obrigatórios não preenchidos.
+
+
+![formulario](https://github.com/BrunoHenriique/bertoti/assets/103460912/2e341f4c-e829-4b4d-9167-9f43e5bfa2bb)
+![formulario 2](https://github.com/BrunoHenriique/bertoti/assets/103460912/c10b0af6-86eb-4f74-99ac-d3d57626dd7c)
+
