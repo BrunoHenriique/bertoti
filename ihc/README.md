@@ -37,9 +37,3 @@ O site da Apple utiliza um design minimalista e limpo, focando nos produtos e na
 ![Apple](https://github.com/BrunoHenriique/bertoti/assets/103460912/001c0252-d0bd-477e-bffa-1f413f1709e9)
 
 
-<h4>Heuristica 2: Correspondência entre o sistema e o mundo real:<h4>
-
-Exemplo: O aplicativo de compras Amazon utiliza ícones claros e nomes de categorias que refletem produtos físicos (como "Livros", "Eletrônicos", "Moda"), facilitando a navegação baseada em conceitos familiares aos usuários.
-
-
-
