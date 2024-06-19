@@ -1,3 +1,9 @@
+<h4>Heuristica 2: Correspondência entre o sistema e o mundo real:<h4>
+
+Exemplo: O aplicativo de compras Amazon utiliza ícones claros e nomes de categorias que refletem produtos físicos (como "Livros", "Eletrônicos", "Moda"), facilitando a navegação baseada em conceitos familiares aos usuários.
+
+![amazon](https://github.com/BrunoHenriique/bertoti/assets/103460912/32a195ce-db2d-49b7-8d6b-9e5c099ec700)
+
 <h4>Heuristica 3 : Controle e liberdade do usuário:<h4>
   
 Na Netflix, os usuários podem pausar, voltar ou avançar vídeos facilmente, dando-lhes controle sobre sua experiência de visualização.
@@ -29,6 +35,11 @@ Solução: Adicionar uma coluna onde possa evidenciar de forma ordenada o semest
 O site da Apple utiliza um design minimalista e limpo, focando nos produtos e nas experiências de usuário, com pouco texto e muitos espaços livres.
 
 ![Apple](https://github.com/BrunoHenriique/bertoti/assets/103460912/001c0252-d0bd-477e-bffa-1f413f1709e9)
+
+
+<h4>Heuristica 2: Correspondência entre o sistema e o mundo real:<h4>
+
+Exemplo: O aplicativo de compras Amazon utiliza ícones claros e nomes de categorias que refletem produtos físicos (como "Livros", "Eletrônicos", "Moda"), facilitando a navegação baseada em conceitos familiares aos usuários.
 
 
 
